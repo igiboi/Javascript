@@ -1,0 +1,110 @@
+{
+  "main": {
+    "name":"Luigi Matias",
+    "occupation":"Web Developer",
+    "description":"I am pretty comfortable on the Front-End side but also have some experience in the Back-End and learning more. My goal is to be a Full-Stack Developer. I am a student for a life and I am always looking for continous improvement.",
+    "image":"lulu.jpg",
+    "bio":"Yes, I was named after a video game character. I also do love playing video games but I also love to stay active by playing basketball, going hiking, and riding my mountain bike.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "igiboi26@gmail.com",
+    "address":{
+
+    },
+    "website": "luigicz26.github.io",
+    "resumedownload":"https://github.com/luigicz26/resume/raw/master/Luigi's%20Resume.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/luigimatias",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/luigi-matias-ab2075186/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/luigicz26",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am more comfortable with Front-End, I have worked in some Back-End. Long term goal I want to be a Full-Stack",
+    "education":[
+      {
+        "school":"NOVA",
+        "degree":"A.S. Computer Science",
+        "graduated":"August 2020",
+        "description":"NOVA, helped me figure out what I really wanted out of the degree and overtime help me grow as a person. Also saved me a lot of money"
+      }
+    ],
+    "work":[
+      {
+        "company":"CorporateZen",
+        "title":"Web Developer Jr ",
+        "years":"March 2010 - Present",
+        "description":"I am currently working full time for CorporateZen as a junior developer. I help the company with various task of bug fixes on the Front-End, updating a file/stylesheet or deleting a bad sign up in the database by using MySQL"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"50%"
+      },
+      {
+        "name":"MySQL",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Fictional Univeristy",
+        "category":"edit/create/save notes, upcoming events for classes, leave a like for your favorite professor. ",
+        "image":"University.png",
+        "url":"https://luigim.sgedu.site/  "
+      },
+      {
+        "title":"Prima",
+        "category":"CorporateZen website Front-End tasks.",
+        "image":"Prima.png",
+        "url":"https://primacentral.org/"
+      },
+      {
+        "title":"DoodyCalls",
+        "category":"I've done front-End and Back-End task for this site",
+        "image":"Doody.png",
+        "url":"https://doodycalls.com/"
+      },
+      {
+        "title":"Random Quote Generator",
+        "category":"My Favorite quotes!",
+        "image":"stars.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  }
+}
